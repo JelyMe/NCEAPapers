@@ -32,17 +32,21 @@ for standardNumber in range(90804,91999):
     os.system("cls")
     print(spinner[standardNumber%9])
     for year in range(2023,2011,-1):
+
         try:
             # creating a pdf file object
             pdfFileObj = open(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\exams\\"+str(standardNumber)+"-" + str(year) + ".pdf", 'rb')
 
             # creating a pdf reader object
             pdfReader = PyPDF2.PdfReader(pdfFileObj)
+
             # creating a page object
             pageObj = pdfReader.pages[0]
             if re.search(pattern=r"(Level|Kaupae) \d* ([\sA-Za-z()&\-/\u00C0-\u017F]+),* "+str(year)+r"[\S\s]*(Credits|Whiwhinga):", string=pageObj.extract_text()).group(2) not in subjectList:
                 subjectList.append(re.search(pattern=r"(Level|Kaupae) \d* ([\sA-Za-z()&\-/\u00C0-\u017F]+),* "+str(year)+r"[\S\s]*(Credits|Whiwhinga):", string=pageObj.extract_text()).group(2))
+            
             startYear = 2011
+
             for testYear in range(2011,2024):
                 if Path(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\exams\\"+str(standardNumber)+"-" + str(testYear) + ".pdf").exists():
                    startYear = testYear
@@ -53,6 +57,7 @@ for standardNumber in range(90804,91999):
                                  "subject":re.search(pattern=r"(Level|Kaupae) \d* ([\sA-Za-z()&\-/\u00C0-\u017F]+),* "+str(year)+r"[\S\s]*(Credits|Whiwhinga):", string=pageObj.extract_text()).group(2),
                                    "year-range": str(startYear)+"-"+str(year),
                                      "level":re.search(pattern=r"(Level|Kaupae) (\d*) ([\S\s]+) "+str(year)+r"[\S\s]*(Credits|Whiwhinga):", string=pageObj.extract_text()).group(2)})
+            
             # closing the pdf file object
             pdfFileObj.close()
 
@@ -63,6 +68,7 @@ for standardNumber in range(90804,91999):
                     if Path(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf").exists():
                         archive.write(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf", r"schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf")
             break
+
         except Exception as e:
             print(e)
             if type(e) is not FileNotFoundError:
@@ -70,6 +76,7 @@ for standardNumber in range(90804,91999):
 
 for filename in os.listdir(r"nzqa/exams/bonus/"):
     f = os.path.join(r"nzqa/exams/bonus/", filename)
+
     # checking if it is a file
     split = filename.split('.')
     if os.path.isfile(f) and split[6] == "zip":
