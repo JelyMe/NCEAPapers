@@ -1,3 +1,13 @@
+
+
+
+'''
+###
+NOTE FOR YANXUAN: REMEMBER TO GET REST OF SCHOL STATS PAPERS
+###
+'''
+
+
 # importing required modules
 import os
 import PyPDF2
