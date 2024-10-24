@@ -26,7 +26,7 @@ spinner = [
 		]
 
 
-credits = {"One":1,"Two":2,"Three":3,"Four":4,"Five":5,"Six":6,"Seven":7,"Eight":8,"Nine":9,"Ten":10, "Tahi":1, "Rua":2, "Toru":3, "Wh\u0101":4, "Rima":5, "Ono":6, "Whitu":7,"Waru":8,"Iwa":9,"Tekau":10}
+credits = {"One":1,"Two":2,"Three":3,"Four":4,"Five":5,"Six":6,"Seven":7,"Eight":8,"Nine":9,"Ten":10, "Tahi":1, "Rua":2, "Toru":3, "Wh\u0101":4, "Rima":5, "Ono":6, "Whitu":7,"Waru":8,"Iwa":9,"Tekau":10} 
 
 for standardNumber in range(90804,91999):
     os.system("cls")
