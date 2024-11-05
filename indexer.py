@@ -3,7 +3,9 @@
 
 '''
 ###
-NOTE FOR YANXUAN: FIND SCHOL ACCOUNTING 2019 and 2020 papers!!!!
+MISSING Papers:
+Schol Accounting 2019 & 2020
+Schol Economics 2020
 ###
 '''
 
