@@ -40,14 +40,14 @@ spinner = [
 
 credits = {"One":1,"Two":2,"Three":3,"Four":4,"Five":5,"Six":6,"Seven":7,"Eight":8,"Nine":9,"Ten":10, "Tahi":1, "Rua":2, "Toru":3, "Wh\u0101":4, "Rima":5, "Ono":6, "Whitu":7,"Waru":8,"Iwa":9,"Tekau":10} 
 
-for standardNumber in range(90804,91999):
+for standardNumber in range(90804,93999):
     os.system("cls")
     print(spinner[standardNumber%9])
     for year in range(2023,2011,-1):
 
         try:
             # creating a pdf file object
-            pdfFileObj = open(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\exams\\"+str(standardNumber)+"-" + str(year) + ".pdf", 'rb')
+            pdfFileObj = open(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\exams\\"+str(standardNumber)+"-" + str(year) + ".pdf", 'rb')
 
             # creating a pdf reader object
             pdfReader = PyPDF2.PdfReader(pdfFileObj)
@@ -60,7 +60,7 @@ for standardNumber in range(90804,91999):
             startYear = 2011
 
             for testYear in range(2011,2024):
-                if Path(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\exams\\"+str(standardNumber)+"-" + str(testYear) + ".pdf").exists():
+                if Path(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\exams\\"+str(standardNumber)+"-" + str(testYear) + ".pdf").exists():
                    startYear = testYear
                    break
             indexLol.append({"id": str(len(indexLol)),
@@ -73,12 +73,12 @@ for standardNumber in range(90804,91999):
             # closing the pdf file object
             pdfFileObj.close()
 
-            with ZipFile(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\zipped\\"+str(standardNumber)+".zip", mode="w") as archive:
+            with ZipFile(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\zipped\\"+str(standardNumber)+".zip", mode="w") as archive:
                 for i in range(startYear,year+1):
-                    if Path(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\exams\\"+str(standardNumber)+"-" + str(i) + ".pdf").exists():
-                        archive.write(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\exams\\"+str(standardNumber)+"-" + str(i) + ".pdf", r"exams\\"+str(standardNumber)+"-" + str(i) + ".pdf")
-                    if Path(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf").exists():
-                        archive.write(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf", r"schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf")
+                    if Path(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\exams\\"+str(standardNumber)+"-" + str(i) + ".pdf").exists():
+                        archive.write(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\exams\\"+str(standardNumber)+"-" + str(i) + ".pdf", r"exams\\"+str(standardNumber)+"-" + str(i) + ".pdf")
+                    if Path(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf").exists():
+                        archive.write(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf", r"schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf")
             break
 
         except Exception as e:
@@ -86,8 +86,8 @@ for standardNumber in range(90804,91999):
             if type(e) is not FileNotFoundError:
                 iforgor[str(standardNumber)] = str(e)
 
-for filename in os.listdir(r"nzqa/exams/bonus/"):
-    f = os.path.join(r"nzqa/exams/bonus/", filename)
+for filename in os.listdir(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers/exams/bonus/"):
+    f = os.path.join(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers/exams/bonus/", filename)
 
     # checking if it is a file
     split = filename.split('.')
@@ -99,14 +99,14 @@ for filename in os.listdir(r"nzqa/exams/bonus/"):
                                  "subject":split[3],
                                    "year-range": split[4],
                                      "level":split[5]})
-        shutil.copyfile(r"nzqa/exams/bonus/"+filename,r"nzqa/zipped/" +split[1]+".zip")
+        shutil.copyfile(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers/exams/bonus/"+filename,r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers/zipped/" +split[1]+".zip")
 
-with open(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\website\searchIndex.json", "w") as outfile:
+with open(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\website\searchIndex.json", "w") as outfile:
     json.dump(indexLol, outfile)
 
-with open(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\website\brokenFiles.json", "w") as outfile:
+with open(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\website\brokenFiles.json", "w") as outfile:
     json.dump(iforgor, outfile)
 
-with open(r"C:\Users\jelym\Desktop\Funny Projects\nzqa\website\subjects.json", "w") as outfile:
+with open(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\website\subjects.json", "w") as outfile:
     subjectList.sort()
     json.dump(subjectList, outfile)
