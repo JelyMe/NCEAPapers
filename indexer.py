@@ -80,34 +80,11 @@ for standardNumber in range(90804,93999):
                         archive.write(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\exams\\"+str(standardNumber)+"-" + str(i) + ".pdf", r"exams\\"+str(standardNumber)+"-" + str(i) + ".pdf")
                     if Path(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf").exists():
                         archive.write(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf", r"schedules\\"+str(standardNumber)+"-" + str(i) + ".pdf")
+                    if Path(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\resources\\"+str(standardNumber)+"-" + str(i) + ".pdf").exists():
+                        archive.write(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\resources\\"+str(standardNumber)+"-" + str(i) + ".pdf", r"resources\\"+str(standardNumber)+"-" + str(i) + ".pdf")
             break
 
         except Exception as e:
             print(e)
             if type(e) is not FileNotFoundError:
                 iforgor[str(standardNumber)] = str(e)
-
-for filename in os.listdir(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers/exams/bonus/"):
-    f = os.path.join(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers/exams/bonus/", filename)
-
-    # checking if it is a file
-    split = filename.split('.')
-    if os.path.isfile(f) and split[6] == "zip":
-        subjectList.append(split[3])
-        indexLol.append({"id": str(len(indexLol)),
-                             "title":split[0],
-                               "number":split[1], "credits": split[2],
-                                 "subject":split[3],
-                                   "year-range": split[4],
-                                     "level":split[5]})
-        shutil.copyfile(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers/exams/bonus/"+filename,r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers/zipped/" +split[1]+".zip")
-
-with open(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\website\searchIndex.json", "w") as outfile:
-    json.dump(indexLol, outfile)
-
-with open(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\website\brokenFiles.json", "w") as outfile:
-    json.dump(iforgor, outfile)
-
-with open(r"C:\Users\jelym\Documents\NZQA Papers\NCEAPapers\website\subjects.json", "w") as outfile:
-    subjectList.sort()
-    json.dump(subjectList, outfile)
