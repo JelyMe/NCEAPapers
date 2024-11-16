@@ -1,0 +1,80 @@
+{
+  "91908": {
+    "title": "Analyse an area of computer science ",
+    "credits": "3",
+    "subject": "Digital Technologies and Hangarau Matihiko",
+    "level": "3"
+  },
+  "91946": {
+    "title": "Interpret and apply mathematical and statistical information in context",
+    "credits": "5",
+    "subject": "Mathematics and Statistics RAS",
+    "level": "1"
+  },
+  "92023": {
+    "title": "Demonstrate understanding of how the properties of chemicals inform their use in a specific context",
+    "credits": "4",
+    "subject": "Chemistry and Biology RAS",
+    "level": "1"
+  },
+  "93101": {
+    "title": "Scholarship Biology",
+    "credits": "-",
+    "subject": "Scholarship Biology",
+    "level": "S"
+  },
+  "93102": {
+    "title": "Scholarship Chemistry",
+    "credits": "-",
+    "subject": "Scholarship Chemistry",
+    "level": "S"
+  },
+  "93103": {
+    "title": "Scholarship Physics",
+    "credits": "-",
+    "subject": "Scholarship Physics",
+    "level": "S"
+  },
+  "93104": {
+    "title": "Scholarship Earth and Space Science",
+    "credits": "-",
+    "subject": "Scholarship Earth and Space Science",
+    "level": "S"
+  },
+  "93201": {
+    "title": "Scholarship Statistics",
+    "credits": "-",
+    "subject": "Scholarship Statistics",
+    "level": "S"
+  },
+  "93202": {
+    "title": "Scholarship Calculus",
+    "credits": "-",
+    "subject": "Scholarship Calculus",
+    "level": "S"
+  },
+  "93203": {
+    "title": "Scholarship Accounting",
+    "credits": "-",
+    "subject": "Scholarship Accounting",
+    "level": "S"
+  },
+  "93401": {
+    "title": "Scholarship Geography",
+    "credits": "-",
+    "subject": "Scholarship Geography",
+    "level": "S"
+  },
+  "93402": {
+    "title": "Scholarship Economics",
+    "credits": "-",
+    "subject": "Scholarship Economics",
+    "level": "S"
+  },
+  "93403": {
+    "title": "Scholarship History",
+    "credits": "-",
+    "subject": "Scholarship History",
+    "level": "S"
+  }
+}

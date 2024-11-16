@@ -1,0 +1,2928 @@
+[
+  {
+    "number": "32406",
+    "start-year": "2023",
+    "end-year": "2022",
+    "title": "Use mathematics and statistics to meet the \nnumeracy demands of a range of situations",
+    "credits": 10,
+    "subject": "Credits",
+    "level": "All",
+    "id": 0
+  },
+  {
+    "number": "32405",
+    "start-year": "2023",
+    "end-year": "2022",
+    "title": "Write texts to communicate \nideas and information",
+    "credits": 5,
+    "subject": "Credits",
+    "level": "All",
+    "id": 1
+  },
+  {
+    "number": "32403",
+    "start-year": "2022",
+    "end-year": "2023",
+    "title": "Read written texts to understand  \nideas and information",
+    "credits": 5,
+    "subject": "Credits",
+    "level": "All",
+    "id": 2
+  },
+  {
+    "number": "90804",
+    "start-year": "2011",
+    "end-year": "2013",
+    "title": "Tuhituhi k\u014drero e h\u0101ngai ana ki te kaupapa\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "1",
+    "id": 3
+  },
+  {
+    "number": "90812",
+    "start-year": "2013",
+    "end-year": "2014",
+    "title": "Describe world views, their expression through \npractices and activities and the consequences for a \nsustainable future\n",
+    "credits": 4,
+    "subject": "Education for Sustainability,",
+    "level": "2",
+    "id": 4
+  },
+  {
+    "number": "90814",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Describe aspects of sustainability in relation to a \nsustainable future\n",
+    "credits": 4,
+    "subject": "Education for Sustainability,",
+    "level": "2",
+    "id": 5
+  },
+  {
+    "number": "90837",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate an understanding of internal features \nof a small business\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "1",
+    "id": 6
+  },
+  {
+    "number": "90838",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate an understanding of external factors \ninfluencing a small business\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "1",
+    "id": 7
+  },
+  {
+    "number": "90839",
+    "start-year": "2013",
+    "end-year": "2016",
+    "title": "Apply business knowledge to an operational \nproblem(s) in a given small business context\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "1",
+    "id": 8
+  },
+  {
+    "number": "90843",
+    "start-year": "2011",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of the internal \noperations of a large business\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "2",
+    "id": 9
+  },
+  {
+    "number": "90844",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of how a large  \nbusiness responds to external factors\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "2",
+    "id": 10
+  },
+  {
+    "number": "90845",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Apply business knowledge to a critical problem(s)  \nin a given large business context\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "2",
+    "id": 11
+  },
+  {
+    "number": "90849",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Show understanding of specified aspect(s) of \nstudied written text(s), using supporting evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "1",
+    "id": 12
+  },
+  {
+    "number": "90850",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Show understanding of specified aspect(s) of \nstudied visual or oral text(s), using supporting evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "1",
+    "id": 13
+  },
+  {
+    "number": "90851",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Show understanding of significant aspects  \nof unfamiliar written text(s) through close reading,  \nusing supporting evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "1",
+    "id": 14
+  },
+  {
+    "number": "90861",
+    "start-year": "2011",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a dance performance\n",
+    "credits": 4,
+    "subject": "Dance,",
+    "level": "1",
+    "id": 15
+  },
+  {
+    "number": "90862",
+    "start-year": "2018",
+    "end-year": "2023",
+    "title": "Translate adapted Latin text into English, \ndemonstrating understanding\n",
+    "credits": 6,
+    "subject": "Latin,",
+    "level": "1",
+    "id": 16
+  },
+  {
+    "number": "90863",
+    "start-year": "2014",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of adapted Latin text\n",
+    "credits": 5,
+    "subject": "Latin,",
+    "level": "1",
+    "id": 17
+  },
+  {
+    "number": "90868",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of spoken \nChinese texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Chinese,",
+    "level": "1",
+    "id": 18
+  },
+  {
+    "number": "90871",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of  \nChinese texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Chinese,",
+    "level": "1",
+    "id": 19
+  },
+  {
+    "number": "90873",
+    "start-year": "2018",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of a variety of spoken \nCook Islands M\u0101ori texts on areas of  \nmost immediate relevance\n",
+    "credits": 5,
+    "subject": "Cook Islands M\u0101ori,",
+    "level": "1",
+    "id": 20
+  },
+  {
+    "number": "90876",
+    "start-year": "2021",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of  \nCook Islands Maori texts on areas of most  \nimmediate relevance",
+    "credits": 5,
+    "subject": "Cook Islands Maori",
+    "level": "1",
+    "id": 21
+  },
+  {
+    "number": "90878",
+    "start-year": "2016",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of a variety of spoken  \nFrench texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "French,",
+    "level": "1",
+    "id": 22
+  },
+  {
+    "number": "90881",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of French \ntexts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "French,",
+    "level": "1",
+    "id": 23
+  },
+  {
+    "number": "90883",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of spoken \nGerman texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "German,",
+    "level": "1",
+    "id": 24
+  },
+  {
+    "number": "90886",
+    "start-year": "2013",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of a variety of German \ntexts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "German,",
+    "level": "1",
+    "id": 25
+  },
+  {
+    "number": "90893",
+    "start-year": "2011",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of a variety of spoken \nJapanese texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Japanese,",
+    "level": "1",
+    "id": 26
+  },
+  {
+    "number": "90896",
+    "start-year": "2011",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety \nof Japanese texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Japanese,",
+    "level": "1",
+    "id": 27
+  },
+  {
+    "number": "90898",
+    "start-year": "2018",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of spoken \nKorean texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Korean,",
+    "level": "1",
+    "id": 28
+  },
+  {
+    "number": "90901",
+    "start-year": "2018",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety  \nof Korean texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Korean,",
+    "level": "1",
+    "id": 29
+  },
+  {
+    "number": "90903",
+    "start-year": "2013",
+    "end-year": "2017",
+    "title": "Demonstrate understanding of a variety of spoken \nSamoan texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Samoan,",
+    "level": "1",
+    "id": 30
+  },
+  {
+    "number": "90906",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of Samoan \ntext(s) on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Samoan,",
+    "level": "1",
+    "id": 31
+  },
+  {
+    "number": "90908",
+    "start-year": "2013",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of a variety of spoken \nSpanish texts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Spanish,",
+    "level": "1",
+    "id": 32
+  },
+  {
+    "number": "90911",
+    "start-year": "2013",
+    "end-year": "2018",
+    "title": "Demonstrate understanding of a variety of Spanish \ntexts on areas of most immediate relevance\n",
+    "credits": 5,
+    "subject": "Spanish,",
+    "level": "1",
+    "id": 33
+  },
+  {
+    "number": "90919",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate knowledge of  \nsoil management practices\n",
+    "credits": 4,
+    "subject": "Agricultural and Horticultural Science,",
+    "level": "1",
+    "id": 34
+  },
+  {
+    "number": "90921",
+    "start-year": "2018",
+    "end-year": "2022",
+    "title": "Demonstrate knowledge of  \nlivestock management practices\n",
+    "credits": 5,
+    "subject": "Agricultural and Horticultural Science,",
+    "level": "1",
+    "id": 35
+  },
+  {
+    "number": "90924",
+    "start-year": "2017",
+    "end-year": "2021",
+    "title": "Demonstrate knowledge of horticultural plant \nmanagement practices and related plant physiology\n",
+    "credits": 5,
+    "subject": " Agricultural and Horticultural Science,",
+    "level": "1",
+    "id": 36
+  },
+  {
+    "number": "90927",
+    "start-year": "2014",
+    "end-year": "2016",
+    "title": "Demonstrate understanding of biological ideas \nrelating to micro-organisms\n",
+    "credits": 4,
+    "subject": "Biology,",
+    "level": "1",
+    "id": 37
+  },
+  {
+    "number": "90928",
+    "start-year": "2011",
+    "end-year": "2022",
+    "id": 38,
+    "title": "Demonstrate understanding of biological ideas \nrelating to the life cycle of flowering plants",
+    "credits": 4,
+    "subject": "Biology",
+    "level": "1"
+  },
+  {
+    "number": "90929",
+    "start-year": "2011",
+    "end-year": "2014",
+    "title": "Demonstrate understanding of biological ideas \nrelating to a mammal as a consumer\n",
+    "credits": 3,
+    "subject": "Biology,",
+    "level": "1",
+    "id": 39
+  },
+  {
+    "number": "90932",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of aspects  \nof carbon chemistry\n",
+    "credits": 4,
+    "subject": "Chemistry,",
+    "level": "1",
+    "id": 40
+  },
+  {
+    "number": "90933",
+    "start-year": "2011",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of  \naspects of selected elements\n",
+    "credits": 4,
+    "subject": "Chemistry,",
+    "level": "1",
+    "id": 41
+  },
+  {
+    "number": "90934",
+    "start-year": "2013",
+    "end-year": "2017",
+    "title": "Demonstrate understanding of aspects  \nof chemical reactions\n",
+    "credits": 4,
+    "subject": "Chemistry,",
+    "level": "1",
+    "id": 42
+  },
+  {
+    "number": "90937",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of aspects  \nof electricity and magnetism\n",
+    "credits": 4,
+    "subject": "Physics,",
+    "level": "1",
+    "id": 43
+  },
+  {
+    "number": "90938",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of aspects  \nof wave behaviour\n",
+    "credits": 4,
+    "subject": "Physics,",
+    "level": "1",
+    "id": 44
+  },
+  {
+    "number": "90939",
+    "start-year": "2015",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of aspects of heat\n",
+    "credits": 4,
+    "subject": "Physics,",
+    "level": "1",
+    "id": 45
+  },
+  {
+    "number": "90940",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of aspects of \nmechanics\n",
+    "credits": 4,
+    "subject": "Science,",
+    "level": "1",
+    "id": 46
+  },
+  {
+    "number": "90944",
+    "start-year": "2012",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of aspects  \nof acids and bases\n",
+    "credits": 4,
+    "subject": "Science,",
+    "level": "1",
+    "id": 47
+  },
+  {
+    "number": "90948",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of biological ideas \nrelating to genetic variation\n",
+    "credits": 4,
+    "subject": "Science,",
+    "level": "1",
+    "id": 48
+  },
+  {
+    "number": "90960",
+    "start-year": "2011",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of how an individual, \nthe family and society enhance each other",
+    "credits": 4,
+    "subject": "Home Economics,",
+    "level": "1",
+    "id": 49
+  },
+  {
+    "number": "90961",
+    "start-year": "2015",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of how packaging \ninformation influences an individual",
+    "credits": 4,
+    "subject": "Home Economics,",
+    "level": "1",
+    "id": 50
+  },
+  {
+    "number": "90972",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of influences on \nadolescent eating patterns to make health-enhancing \nrecommendations\n",
+    "credits": 4,
+    "subject": "Health,",
+    "level": "1",
+    "id": 51
+  },
+  {
+    "number": "90975",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of issues to make \nhealth-enhancing decisions in drug-related situations\n",
+    "credits": 4,
+    "subject": "Health,",
+    "level": "1",
+    "id": 52
+  },
+  {
+    "number": "90976",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of accounting  \nconcepts for small entities \n",
+    "credits": 3,
+    "subject": "Accounting,",
+    "level": "1",
+    "id": 53
+  },
+  {
+    "number": "90978",
+    "start-year": "2012",
+    "end-year": "2020",
+    "title": "Prepare financial statements  \nfor sole proprietors \n",
+    "credits": 5,
+    "subject": "Accounting,",
+    "level": "1",
+    "id": 54
+  },
+  {
+    "number": "90980",
+    "start-year": "2014",
+    "end-year": "2022",
+    "title": "Interpret accounting information  \nfor sole proprietors\n",
+    "credits": 4,
+    "subject": "Accounting,",
+    "level": "1",
+    "id": 55
+  },
+  {
+    "number": "90983",
+    "start-year": "2015",
+    "end-year": "2014",
+    "title": "Demonstrate understanding of consumer choices, \nusing scarcity and / or demand\n",
+    "credits": 4,
+    "subject": "Economics,",
+    "level": "1",
+    "id": 56
+  },
+  {
+    "number": "90985",
+    "start-year": "2015",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of producer choices \nusing supply\n",
+    "credits": 3,
+    "subject": "Economics,",
+    "level": "1",
+    "id": 57
+  },
+  {
+    "number": "90986",
+    "start-year": "2011",
+    "end-year": "2023",
+    "id": 58,
+    "title": "Demonstrate understanding of how consumer, \nproducer and  / or government choices affect society, using \nmarket equilibrium",
+    "credits": 5,
+    "subject": "Economics",
+    "level": "1"
+  },
+  {
+    "number": "90991",
+    "start-year": "2018",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of the media coverage \nof a current issue or event\n",
+    "credits": 4,
+    "subject": "Media Studies,",
+    "level": "1",
+    "id": 59
+  },
+  {
+    "number": "90992",
+    "start-year": "2011",
+    "end-year": "2017",
+    "title": "Demonstrate understanding of characteristics of a \nmedia genre\n",
+    "credits": 4,
+    "subject": "Media Studies,",
+    "level": "1",
+    "id": 60
+  },
+  {
+    "number": "90998",
+    "start-year": "2011",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of features of  \na drama / theatre form\n",
+    "credits": 4,
+    "subject": "Drama,",
+    "level": "1",
+    "id": 61
+  },
+  {
+    "number": "91003",
+    "start-year": "2011",
+    "end-year": "2021",
+    "id": 62,
+    "title": "Interpret sources of an historical event  \nof significance to New Zealanders",
+    "credits": 4,
+    "subject": "History",
+    "level": "1"
+  },
+  {
+    "number": "91005",
+    "start-year": "2014",
+    "end-year": "2019",
+    "title": "Describe the causes and consequences \nof an historical event\n",
+    "credits": 4,
+    "subject": "History,",
+    "level": "1",
+    "id": 63
+  },
+  {
+    "number": "91006",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Describe how a significant historical event  \naffected New Zealand society\n",
+    "credits": 4,
+    "subject": "History,",
+    "level": "1",
+    "id": 64
+  },
+  {
+    "number": "91007",
+    "start-year": "2011",
+    "end-year": "2019",
+    "title": "Demonstrate geographic understanding of \nenvironments that have been shaped by  \nextreme natural event(s)\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "1",
+    "id": 65
+  },
+  {
+    "number": "91008",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate geographic understanding of \npopulation concepts\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "1",
+    "id": 66
+  },
+  {
+    "number": "91010",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Apply concepts and basic geographic skills to \ndemonstrate understanding of a given environment\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "1",
+    "id": 67
+  },
+  {
+    "number": "91015",
+    "start-year": "2016",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of formal elements  \nof art works, using art terminology\n",
+    "credits": 4,
+    "subject": "Art History,",
+    "level": "1",
+    "id": 68
+  },
+  {
+    "number": "91021",
+    "start-year": "2011",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of ideas and values  \nof the classical world\n",
+    "credits": 4,
+    "subject": "Classical Studies,",
+    "level": "1",
+    "id": 69
+  },
+  {
+    "number": "91020",
+    "start-year": "2012",
+    "end-year": "2011",
+    "title": "Explain why selected objects may  \nbe considered as art\n",
+    "credits": 4,
+    "subject": "Art History,",
+    "level": "1",
+    "id": 70
+  },
+  {
+    "number": "91022",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of the significance  \nof features of work(s) of art in the classical world\n",
+    "credits": 4,
+    "subject": "Classical Studies,",
+    "level": "1",
+    "id": 71
+  },
+  {
+    "number": "91023",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of an important \nhistorical figure in the classical world\n",
+    "credits": 4,
+    "subject": "Classical Studies,",
+    "level": "1",
+    "id": 72
+  },
+  {
+    "number": "91028",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Investigate relationships between tables,  \nequations and graphs\n",
+    "credits": 4,
+    "subject": "Mathematics and Statistics,",
+    "level": "1",
+    "id": 73
+  },
+  {
+    "number": "91031",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Apply geometric reasoning in solving problems\n",
+    "credits": 4,
+    "subject": "Mathematics and Statistics,",
+    "level": "1",
+    "id": 74
+  },
+  {
+    "number": "91037",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of chance and data\n",
+    "credits": 4,
+    "subject": "Mathematics and Statistics,",
+    "level": "1",
+    "id": 75
+  },
+  {
+    "number": "91039",
+    "start-year": "2011",
+    "end-year": "2023",
+    "id": 76,
+    "title": "Describe how cultures change",
+    "credits": 4,
+    "subject": "Social Studies",
+    "level": "1"
+  },
+  {
+    "number": "91041",
+    "start-year": "2012",
+    "end-year": "2020",
+    "title": "Describe consequences of cultural change(s)\n",
+    "credits": 4,
+    "subject": "Social Studies,",
+    "level": "1",
+    "id": 77
+  },
+  {
+    "number": "91087",
+    "start-year": "2017",
+    "end-year": "2022",
+    "title": "P\u0101nui kia m\u014dhio ki te reo o t\u014dna ao\n",
+    "credits": 6,
+    "subject": "Te Reo M\u0101ori,",
+    "level": "1",
+    "id": 78
+  },
+  {
+    "number": "91088",
+    "start-year": "2011",
+    "end-year": "2012",
+    "title": "Tuhi i te reo o t\u014dna ao\n",
+    "credits": 6,
+    "subject": "Te Reo M\u0101ori,",
+    "level": "1",
+    "id": 79
+  },
+  {
+    "number": "91093",
+    "start-year": "2011",
+    "end-year": "2023",
+    "title": "Demonstrate aural and theoretical skills  \nthrough transcription\n",
+    "credits": 4,
+    "subject": "Music,",
+    "level": "1",
+    "id": 80
+  },
+  {
+    "number": "91094",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate knowledge of conventions  \nused in music scores\n",
+    "credits": 4,
+    "subject": "Music,",
+    "level": "1",
+    "id": 81
+  },
+  {
+    "number": "91098",
+    "start-year": "2012",
+    "end-year": "2020",
+    "title": "Analyse specified aspect(s) of studied  \nwritten text(s), supported by evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "2",
+    "id": 82
+  },
+  {
+    "number": "91099",
+    "start-year": "2013",
+    "end-year": "2021",
+    "title": "Analyse specified aspect(s) of studied  \nvisual or oral text(s), supported by evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "2",
+    "id": 83
+  },
+  {
+    "number": "91100",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Analyse significant aspects of unfamiliar written \ntext(s) through close reading, supported by evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "2",
+    "id": 84
+  },
+  {
+    "number": "91108",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of spoken \nChinese texts on familiar matters\n",
+    "credits": 5,
+    "subject": "Chinese,",
+    "level": "2",
+    "id": 85
+  },
+  {
+    "number": "91111",
+    "start-year": "2016",
+    "end-year": "2018",
+    "title": "Demonstrate understanding of a variety  \nof written and / or visual Chinese texts on familiar matters\n",
+    "credits": 5,
+    "subject": "Chinese,",
+    "level": "2",
+    "id": 86
+  },
+  {
+    "number": "91113",
+    "start-year": "2018",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of spoken \nCook Islands M\u0101ori texts on familiar matters\n",
+    "credits": 5,
+    "subject": "Cook Islands M\u0101ori,",
+    "level": "2",
+    "id": 87
+  },
+  {
+    "number": "91116",
+    "start-year": "2018",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety  \nof written and / or visual Cook Islands M\u0101ori text(s)  \non familiar matters\n",
+    "credits": 5,
+    "subject": "Cook Islands M\u0101ori,",
+    "level": "2",
+    "id": 88
+  },
+  {
+    "number": "91118",
+    "start-year": "2017",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of spoken  \nFrench texts on familiar matters\n",
+    "credits": 5,
+    "subject": "French,",
+    "level": "2",
+    "id": 89
+  },
+  {
+    "number": "91121",
+    "start-year": "2015",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety \nof written and / or visual French text(s) on familiar matters\n",
+    "credits": 5,
+    "subject": "French,",
+    "level": "2",
+    "id": 90
+  },
+  {
+    "number": "91123",
+    "start-year": "2012",
+    "end-year": "2018",
+    "title": "Demonstrate understanding of a variety of spoken \nGerman texts on familiar matters\n",
+    "credits": 5,
+    "subject": "German,",
+    "level": "2",
+    "id": 91
+  },
+  {
+    "number": "91126",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of written \nand / or visual German text(s) on familiar matters\n",
+    "credits": 5,
+    "subject": "German,",
+    "level": "2",
+    "id": 92
+  },
+  {
+    "number": "91133",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of spoken \nJapanese texts on familiar matters\n",
+    "credits": 5,
+    "subject": "Japanese,",
+    "level": "2",
+    "id": 93
+  },
+  {
+    "number": "91136",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of  \nwritten and / or visual Japanese text(s) on familiar matters\n",
+    "credits": 5,
+    "subject": "Japanese,",
+    "level": "2",
+    "id": 94
+  },
+  {
+    "number": "91138",
+    "start-year": "2018",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of a variety of  \nspoken Korean texts on familiar matters\n",
+    "credits": 5,
+    "subject": "Korean,",
+    "level": "2",
+    "id": 95
+  },
+  {
+    "number": "91143",
+    "start-year": "2012",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of a variety of spoken \nSamoan texts on familiar matters\n",
+    "credits": 5,
+    "subject": "Samoan,",
+    "level": "2",
+    "id": 96
+  },
+  {
+    "number": "91141",
+    "start-year": "2019",
+    "end-year": "2020",
+    "title": "Demonstrate understanding of a variety of written \nand / or visual Korean text(s) on familiar matters\n",
+    "credits": 5,
+    "subject": "Korean,",
+    "level": "2",
+    "id": 97
+  },
+  {
+    "number": "91146",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of written \nand / or visual Samoan text(s) on familiar matters\n",
+    "credits": 5,
+    "subject": "Samoan,",
+    "level": "2",
+    "id": 98
+  },
+  {
+    "number": "91148",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of spoken \nSpanish texts on familiar matters\n",
+    "credits": 5,
+    "subject": "Spanish,",
+    "level": "2",
+    "id": 99
+  },
+  {
+    "number": "91151",
+    "start-year": "2014",
+    "end-year": "2016",
+    "title": "Demonstrate understanding of a variety of  \nwritten and / or visual Spanish text(s) on familiar matters\n",
+    "credits": 5,
+    "subject": "Spanish,",
+    "level": "2",
+    "id": 100
+  },
+  {
+    "number": "91156",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of life processes  \nat the cellular level\n",
+    "credits": 4,
+    "subject": "Biology,",
+    "level": "2",
+    "id": 101
+  },
+  {
+    "number": "91157",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of genetic variation  \nand change\n",
+    "credits": 4,
+    "subject": "Biology,",
+    "level": "2",
+    "id": 102
+  },
+  {
+    "number": "91159",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of gene expression\n",
+    "credits": 4,
+    "subject": "Biology,",
+    "level": "2",
+    "id": 103
+  },
+  {
+    "number": "91164",
+    "start-year": "2015",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of bonding,  \nstructure, properties and energy changes\n",
+    "credits": 5,
+    "subject": "Chemistry,",
+    "level": "2",
+    "id": 104
+  },
+  {
+    "number": "91165",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of the properties of \nselected organic compounds\n",
+    "credits": 4,
+    "subject": "Chemistry,",
+    "level": "2",
+    "id": 105
+  },
+  {
+    "number": "91166",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of chemical reactivity\n",
+    "credits": 4,
+    "subject": "Chemistry,",
+    "level": "2",
+    "id": 106
+  },
+  {
+    "number": "91170",
+    "start-year": "2012",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of waves\n",
+    "credits": 4,
+    "subject": "Physics,",
+    "level": "2",
+    "id": 107
+  },
+  {
+    "number": "91171",
+    "start-year": "2012",
+    "end-year": "2020",
+    "title": "Demonstrate understanding of mechanics\n",
+    "credits": 6,
+    "subject": "Physics,",
+    "level": "2",
+    "id": 108
+  },
+  {
+    "number": "91173",
+    "start-year": "2015",
+    "end-year": "2022",
+    "title": "Demonstrate understanding  \nof electricity and electromagnetism\n",
+    "credits": 6,
+    "subject": "Physics,",
+    "level": "2",
+    "id": 109
+  },
+  {
+    "number": "91174",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of accounting concepts \nfor an entity that operates accounting subsystems\n",
+    "credits": 4,
+    "subject": "Accounting,",
+    "level": "2",
+    "id": 110
+  },
+  {
+    "number": "91176",
+    "start-year": "2013",
+    "end-year": "2021",
+    "title": "Prepare financial information for an entity that \noperates accounting subsystems\n",
+    "credits": 5,
+    "subject": "Accounting,",
+    "level": "2",
+    "id": 111
+  },
+  {
+    "number": "91177",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Interpret accounting information for entities that \noperate accounting subsystems\n",
+    "credits": 4,
+    "subject": "Accounting,",
+    "level": "2",
+    "id": 112
+  },
+  {
+    "number": "91180",
+    "start-year": "2019",
+    "end-year": "2020",
+    "title": "Examine the effects of formal elements of art works\n",
+    "credits": 4,
+    "subject": "Art History,",
+    "level": "2",
+    "id": 113
+  },
+  {
+    "number": "91181",
+    "start-year": "2017",
+    "end-year": "2022",
+    "title": "Examine the meanings conveyed by art works\n",
+    "credits": 4,
+    "subject": "Art History,",
+    "level": "2",
+    "id": 114
+  },
+  {
+    "number": "91182",
+    "start-year": "2017",
+    "end-year": "2023",
+    "title": "Examine the influence of context(s) on art works\n",
+    "credits": 4,
+    "subject": "Art History,",
+    "level": "2",
+    "id": 115
+  },
+  {
+    "number": "91191",
+    "start-year": "2015",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of the causes  \nof extreme Earth events in New Zealand\n",
+    "credits": 4,
+    "subject": "Earth and Space Science,",
+    "level": "2",
+    "id": 116
+  },
+  {
+    "number": "91192",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate understanding  \nof stars and planetary systems\n",
+    "credits": 4,
+    "subject": "Earth and Space Science,",
+    "level": "2",
+    "id": 117
+  },
+  {
+    "number": "91193",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Demonstrate understanding  \nof physical principles related to the Earth System\n",
+    "credits": 4,
+    "subject": "Earth and Space Science,",
+    "level": "2",
+    "id": 118
+  },
+  {
+    "number": "91194",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Translate adapted Latin text of medium complexity \ninto English, demonstrating understanding\n",
+    "credits": 6,
+    "subject": "Latin,",
+    "level": "2",
+    "id": 119
+  },
+  {
+    "number": "91195",
+    "start-year": "2015",
+    "end-year": "2019",
+    "title": "Interpret adapted Latin text of medium complexity, \ndemonstrating understanding\n",
+    "credits": 5,
+    "subject": "Latin,",
+    "level": "2",
+    "id": 120
+  },
+  {
+    "number": "91200",
+    "start-year": "2013",
+    "end-year": "2021",
+    "title": "Examine ideas and values of the classical world\n",
+    "credits": 4,
+    "subject": "Classical Studies,",
+    "level": "2",
+    "id": 121
+  },
+  {
+    "number": "91201",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Examine the significance of features  \nof work(s) of art in the classical world\n",
+    "credits": 4,
+    "subject": "Classical Studies,",
+    "level": "2",
+    "id": 122
+  },
+  {
+    "number": "91203",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Examine socio-political life in the classical world\n",
+    "credits": 6,
+    "subject": "Classical Studies,",
+    "level": "2",
+    "id": 123
+  },
+  {
+    "number": "91211",
+    "start-year": "2017",
+    "end-year": "2021",
+    "title": "Provide an interpretation of a dance performance \nwith supporting evidence\n",
+    "credits": 4,
+    "subject": "Dance,",
+    "level": "2",
+    "id": 124
+  },
+  {
+    "number": "91212",
+    "start-year": "2015",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of a dance genre  \nor style in context\n",
+    "credits": 4,
+    "subject": "Dance,",
+    "level": "2",
+    "id": 125
+  },
+  {
+    "number": "91215",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Discuss a drama or theatre form or period  \nwith reference to a text\n",
+    "credits": 4,
+    "subject": "Drama,",
+    "level": "2",
+    "id": 126
+  },
+  {
+    "number": "91219",
+    "start-year": "2013",
+    "end-year": "2021",
+    "title": "Discuss drama elements, techniques, conventions \nand technologies within live performance\n",
+    "credits": 4,
+    "subject": "Drama,",
+    "level": "2",
+    "id": 127
+  },
+  {
+    "number": "91222",
+    "start-year": "2012",
+    "end-year": "2021",
+    "title": "Analyse inflation using economic  \nconcepts and models\n",
+    "credits": 4,
+    "subject": "Economics,",
+    "level": "2",
+    "id": 128
+  },
+  {
+    "number": "91223",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Analyse international trade using economic \nconcepts and models\n",
+    "credits": 4,
+    "subject": "Economics,",
+    "level": "2",
+    "id": 129
+  },
+  {
+    "number": "91224",
+    "start-year": "2013",
+    "end-year": "2019",
+    "title": "Analyse economic growth using economic  \nconcepts and models\n",
+    "credits": 4,
+    "subject": "Economics,",
+    "level": "2",
+    "id": 130
+  },
+  {
+    "number": "91231",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Examine sources of an historical event that is  \nof significance to New Zealanders\n",
+    "credits": 4,
+    "subject": "History,",
+    "level": "2",
+    "id": 131
+  },
+  {
+    "number": "91233",
+    "start-year": "2015",
+    "end-year": "2021",
+    "title": "Examine causes and consequences  \nof a significant historical event\n",
+    "credits": 5,
+    "subject": "History,",
+    "level": "2",
+    "id": 132
+  },
+  {
+    "number": "91234",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Examine how a significant historical event  \naffected New Zealand society\n",
+    "credits": 5,
+    "subject": "History,",
+    "level": "2",
+    "id": 133
+  },
+  {
+    "number": "91235",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Analyse an adolescent health issue\n",
+    "credits": 5,
+    "subject": "Health,",
+    "level": "2",
+    "id": 134
+  },
+  {
+    "number": "91238",
+    "start-year": "2013",
+    "end-year": "2020",
+    "title": "Analyse an interpersonal issue(s) that places \npersonal safety at risk\n",
+    "credits": 4,
+    "subject": "Health,",
+    "level": "2",
+    "id": 135
+  },
+  {
+    "number": "91240",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate geographic understanding of a large \nnatural environment\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "2",
+    "id": 136
+  },
+  {
+    "number": "91242",
+    "start-year": "2012",
+    "end-year": "2021",
+    "title": "Demonstrate geographic understanding of \ndifferences in development\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "2",
+    "id": 137
+  },
+  {
+    "number": "91243",
+    "start-year": "2012",
+    "end-year": "2020",
+    "title": "Apply geography concepts and skills to \ndemonstrate understanding of a given environment\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "2",
+    "id": 138
+  },
+  {
+    "number": "91248",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of the relationship \nbetween a media product and its audience\n",
+    "credits": 3,
+    "subject": "Media Studies,",
+    "level": "2",
+    "id": 139
+  },
+  {
+    "number": "91251",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of an aspect of a  \nmedia genre\n",
+    "credits": 4,
+    "subject": "Media Studies,",
+    "level": "2",
+    "id": 140
+  },
+  {
+    "number": "91261",
+    "start-year": "2014",
+    "end-year": "2020",
+    "title": "Apply algebraic methods in solving problems\n",
+    "credits": 4,
+    "subject": "Mathematics and Statistics,",
+    "level": "2",
+    "id": 141
+  },
+  {
+    "number": "91262",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "Apply calculus methods in solving problems\n",
+    "credits": 5,
+    "subject": "Mathematics and Statistics,",
+    "level": "2",
+    "id": 142
+  },
+  {
+    "number": "91267",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Apply probability methods in solving problems\n",
+    "credits": 4,
+    "subject": "Mathematics and Statistics,",
+    "level": "2",
+    "id": 143
+  },
+  {
+    "number": "91275",
+    "start-year": "2012",
+    "end-year": "2021",
+    "title": "Demonstrate aural understanding  \nthrough written representation\n",
+    "credits": 4,
+    "subject": "Music,",
+    "level": "2",
+    "id": 144
+  },
+  {
+    "number": "91276",
+    "start-year": "2012",
+    "end-year": "2021",
+    "title": "Demonstrate knowledge of conventions  \nin a range of music scores\n",
+    "credits": 4,
+    "subject": "Music,",
+    "level": "2",
+    "id": 145
+  },
+  {
+    "number": "91277",
+    "start-year": "2016",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of  \ntwo substantial and contrasting music works\n",
+    "credits": 6,
+    "subject": "Music,",
+    "level": "2",
+    "id": 146
+  },
+  {
+    "number": "91279",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of conflict(s) arising \nfrom different cultural beliefs and ideas\n",
+    "credits": 4,
+    "subject": "Social Studies,",
+    "level": "2",
+    "id": 147
+  },
+  {
+    "number": "91281",
+    "start-year": "2017",
+    "end-year": "2023",
+    "title": "Describe how cultural conflict(s) can be addressed\n",
+    "credits": 4,
+    "subject": "Social Studies,",
+    "level": "2",
+    "id": 148
+  },
+  {
+    "number": "91286",
+    "start-year": "2012",
+    "end-year": "2022",
+    "title": "P\u0101nui kia m\u014dhio ki te reo o te ao torotoro\n",
+    "credits": 6,
+    "subject": "Te Reo M\u0101ori,",
+    "level": "2",
+    "id": 149
+  },
+  {
+    "number": "91287",
+    "start-year": "2013",
+    "end-year": "2020",
+    "title": "Tuhi i te reo o te ao torotoro\n",
+    "credits": 6,
+    "subject": "Te Reo M\u0101ori,",
+    "level": "2",
+    "id": 150
+  },
+  {
+    "number": "91290",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of techniques used to \nmodify physical factors of the environment for NZ plant \nproduction\n",
+    "credits": 4,
+    "subject": "Agricultural and Horticultural Science,",
+    "level": "2",
+    "id": 151
+  },
+  {
+    "number": "91294",
+    "start-year": "2015",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of how NZ commercial \nmanagement practices influence livestock  \ngrowth and development\n",
+    "credits": 4,
+    "subject": "Agricultural and Horticultural Science,",
+    "level": "2",
+    "id": 152
+  },
+  {
+    "number": "91297",
+    "start-year": "2012",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of land use for primary \nproduction in New Zealand\n",
+    "credits": 4,
+    "subject": "Agricultural and Horticultural Science,",
+    "level": "2",
+    "id": 153
+  },
+  {
+    "number": "91300",
+    "start-year": "2014",
+    "end-year": "2022",
+    "title": "Analyse the relationship between well-being,  \nfood choices and determinants of health\n",
+    "credits": 4,
+    "subject": "Home Economics,",
+    "level": "2",
+    "id": 154
+  },
+  {
+    "number": "91304",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Evaluate health promoting strategies designed to  \naddress a nutritional need\n",
+    "credits": 4,
+    "subject": "Home Economics,",
+    "level": "2",
+    "id": 155
+  },
+  {
+    "number": "91379",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of how internal factors \ninteract within a business that operates in a global context\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "3",
+    "id": 156
+  },
+  {
+    "number": "91380",
+    "start-year": "2016",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of strategic response  \nto external factors by a business that  \noperates in a global context\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "3",
+    "id": 157
+  },
+  {
+    "number": "91381",
+    "start-year": "2012",
+    "end-year": "2018",
+    "title": "Apply business knowledge to address a complex \nproblem(s) in a given global business context\n",
+    "credits": 4,
+    "subject": "Business Studies,",
+    "level": "3",
+    "id": 158
+  },
+  {
+    "number": "91390",
+    "start-year": "2014",
+    "end-year": "2020",
+    "title": "Demonstrate understanding of thermochemical \nprinciples and the properties of particles and substances\n",
+    "credits": 5,
+    "subject": "Chemistry,",
+    "level": "3",
+    "id": 159
+  },
+  {
+    "number": "91391",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding  \nof the properties of organic compounds\n",
+    "credits": 5,
+    "subject": "Chemistry,",
+    "level": "3",
+    "id": 160
+  },
+  {
+    "number": "91392",
+    "start-year": "2014",
+    "end-year": "2019",
+    "title": "Demonstrate understanding  \nof equilibrium principles in aqueous systems\n",
+    "credits": 5,
+    "subject": "Chemistry,",
+    "level": "3",
+    "id": 161
+  },
+  {
+    "number": "91394",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Analyse ideas and values of the classical world\n",
+    "credits": 4,
+    "subject": "Classical Studies,",
+    "level": "3",
+    "id": 162
+  },
+  {
+    "number": "91395",
+    "start-year": "2016",
+    "end-year": "2021",
+    "title": "Analyse the significance of a work(s) of  \nart in the classical world\n",
+    "credits": 4,
+    "subject": "Classical Studies,",
+    "level": "3",
+    "id": 163
+  },
+  {
+    "number": "91396",
+    "start-year": "2015",
+    "end-year": "2022",
+    "title": "Analyse the impact of a significant historical figure \non the classical world\n",
+    "credits": 6,
+    "subject": "Classical Studies,",
+    "level": "3",
+    "id": 164
+  },
+  {
+    "number": "91399",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of the efficiency  \nof market equilibrium\n",
+    "credits": 4,
+    "subject": "Economics,",
+    "level": "3",
+    "id": 165
+  },
+  {
+    "number": "91400",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of the efficiency  \nof different market structures using marginal analysis\n",
+    "credits": 4,
+    "subject": "Economics,",
+    "level": "3",
+    "id": 166
+  },
+  {
+    "number": "91403",
+    "start-year": "2015",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of macro-economic \ninfluences on the New Zealand economy\n",
+    "credits": 6,
+    "subject": "Economics,",
+    "level": "3",
+    "id": 167
+  },
+  {
+    "number": "91404",
+    "start-year": "2017",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of accounting concepts \nfor a New Zealand reporting entity\n",
+    "credits": 4,
+    "subject": "Accounting,",
+    "level": "3",
+    "id": 168
+  },
+  {
+    "number": "91406",
+    "start-year": "2015",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of company financial \nstatement preparation\n",
+    "credits": 5,
+    "subject": "Accounting,",
+    "level": "3",
+    "id": 169
+  },
+  {
+    "number": "91408",
+    "start-year": "2016",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of management \naccounting to inform decision-making\n",
+    "credits": 4,
+    "subject": "Accounting,",
+    "level": "3",
+    "id": 170
+  },
+  {
+    "number": "91413",
+    "start-year": "2015",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of processes  \nin the ocean system\n",
+    "credits": 4,
+    "subject": "Earth and Space Science,",
+    "level": "3",
+    "id": 171
+  },
+  {
+    "number": "91414",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of processes  \nin the atmosphere system\n",
+    "credits": 4,
+    "subject": "Earth and Space Science,",
+    "level": "3",
+    "id": 172
+  },
+  {
+    "number": "91420",
+    "start-year": "2014",
+    "end-year": "2021",
+    "title": "Integrate aural skills into written representation\n",
+    "credits": 4,
+    "subject": "Making Music,",
+    "level": "3",
+    "id": 173
+  },
+  {
+    "number": "91421",
+    "start-year": "2017",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of harmonic and tonal \nconventions in a range of music scores\n",
+    "credits": 4,
+    "subject": "Music Studies,",
+    "level": "3",
+    "id": 174
+  },
+  {
+    "number": "91423",
+    "start-year": "2018",
+    "end-year": "2023",
+    "title": "Examine the influence of context  \non a substantial music work\n",
+    "credits": 4,
+    "subject": "Music Studies,",
+    "level": "3",
+    "id": 175
+  },
+  {
+    "number": "91422",
+    "start-year": "2013",
+    "end-year": "2015",
+    "title": "Analyse a substantial music work\n",
+    "credits": 4,
+    "subject": "Music Studies,",
+    "level": "3",
+    "id": 176
+  },
+  {
+    "number": "91426",
+    "start-year": "2013",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of how interacting \nnatural processes shape a New Zealand geographic \nenvironment\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "3",
+    "id": 177
+  },
+  {
+    "number": "91427",
+    "start-year": "2017",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of how a cultural \nprocess shapes geographic environment(s)\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "3",
+    "id": 178
+  },
+  {
+    "number": "91429",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a given \nenvironment(s) through selection and application of \ngeographic concepts and skills\n",
+    "credits": 4,
+    "subject": "Geography,",
+    "level": "3",
+    "id": 179
+  },
+  {
+    "number": "91436",
+    "start-year": "2014",
+    "end-year": "2022",
+    "title": "Analyse evidence relating to an historical event  \nof significance to New Zealanders\n",
+    "credits": 4,
+    "subject": "History,",
+    "level": "3",
+    "id": 180
+  },
+  {
+    "number": "91438",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Analyse the causes and consequences of a \nsignificant historical event\n",
+    "credits": 6,
+    "subject": "History,",
+    "level": "3",
+    "id": 181
+  },
+  {
+    "number": "91439",
+    "start-year": "2014",
+    "end-year": "2019",
+    "title": "Analyse a significant historical trend  \nand the force(s) that influenced it\n",
+    "credits": 6,
+    "subject": "History,",
+    "level": "3",
+    "id": 182
+  },
+  {
+    "number": "91462",
+    "start-year": "2018",
+    "end-year": "2023",
+    "title": "Analyse an international health issue\n",
+    "credits": 5,
+    "subject": "Health,",
+    "level": "3",
+    "id": 183
+  },
+  {
+    "number": "91465",
+    "start-year": "2017",
+    "end-year": "2023",
+    "title": "Evaluate models for health promotion\n",
+    "credits": 5,
+    "subject": "Health,",
+    "level": "3",
+    "id": 184
+  },
+  {
+    "number": "91470",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Evaluate conflicting nutritional information relevant \nto well-being in New Zealand society\n",
+    "credits": 4,
+    "subject": "Home Economics,",
+    "level": "3",
+    "id": 185
+  },
+  {
+    "number": "91471",
+    "start-year": "2019",
+    "end-year": "2022",
+    "title": "Analyse the influences of food advertising  \non well-being\n",
+    "credits": 4,
+    "subject": "Home Economics,",
+    "level": "3",
+    "id": 186
+  },
+  {
+    "number": "91472",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Respond critically to specified aspect(s) of  \nstudied written text(s), supported by evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "3",
+    "id": 187
+  },
+  {
+    "number": "91473",
+    "start-year": "2013",
+    "end-year": "2021",
+    "title": "Respond critically to specified aspect(s) of  \nstudied visual or oral text(s), supported by evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "3",
+    "id": 188
+  },
+  {
+    "number": "91474",
+    "start-year": "2016",
+    "end-year": "2021",
+    "title": "Respond critically to significant aspects \nof unfamiliar written texts through close reading,  \nsupported by evidence\n",
+    "credits": 4,
+    "subject": "English,",
+    "level": "3",
+    "id": 189
+  },
+  {
+    "number": "91482",
+    "start-year": "2020",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of style in art works\n",
+    "credits": 4,
+    "subject": "Art History",
+    "level": "3",
+    "id": 190
+  },
+  {
+    "number": "91490",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of an aspect of a  \nmedia industry\n",
+    "credits": 4,
+    "subject": "Media Studies,",
+    "level": "3",
+    "id": 191
+  },
+  {
+    "number": "91493",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a relationship \nbetween a media genre and society\n",
+    "credits": 4,
+    "subject": "Media Studies,",
+    "level": "3",
+    "id": 192
+  },
+  {
+    "number": "91506",
+    "start-year": "2014",
+    "end-year": "2021",
+    "title": "Translate authentic Latin text into English \ndemonstrating understanding\n",
+    "credits": 6,
+    "subject": "Latin,",
+    "level": "3",
+    "id": 193
+  },
+  {
+    "number": "91507",
+    "start-year": "2015",
+    "end-year": "2022",
+    "title": "Analyse authentic Latin text  \ndemonstrating understanding\n",
+    "credits": 5,
+    "subject": "Latin,",
+    "level": "3",
+    "id": 194
+  },
+  {
+    "number": "91514",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Interpret a prescribed text to demonstrate \nknowledge of a theatre form or period\n",
+    "credits": 4,
+    "subject": "Drama,",
+    "level": "3",
+    "id": 195
+  },
+  {
+    "number": "91518",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of live  \ndrama performance\n",
+    "credits": 4,
+    "subject": "Drama,",
+    "level": "3",
+    "id": 196
+  },
+  {
+    "number": "91523",
+    "start-year": "2015",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of wave systems\n",
+    "credits": 4,
+    "subject": "Physics,",
+    "level": "3",
+    "id": 197
+  },
+  {
+    "number": "91524",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of mechanical systems\n",
+    "credits": 6,
+    "subject": "Physics,",
+    "level": "3",
+    "id": 198
+  },
+  {
+    "number": "91526",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of electrical systems\n",
+    "credits": 6,
+    "subject": "Physics,",
+    "level": "3",
+    "id": 199
+  },
+  {
+    "number": "91530",
+    "start-year": "2014",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of how market forces \naffect supply of and demand for  \nNew Zealand primary products\n",
+    "credits": 5,
+    "subject": "Agricultural and Horticultural Science,",
+    "level": "3",
+    "id": 200
+  },
+  {
+    "number": "91531",
+    "start-year": "2018",
+    "end-year": "2020",
+    "title": "Demonstrate understanding of how the production \nprocess meets market requirements for a  \nNew Zealand primary product(s)\n",
+    "credits": 4,
+    "subject": "Agricultural and Horticultural Science,",
+    "level": "3",
+    "id": 201
+  },
+  {
+    "number": "91532",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Analyse a New Zealand primary production \nenvironmental issue\n",
+    "credits": 5,
+    "subject": "Agricultural and Horticultural Science,",
+    "level": "3",
+    "id": 202
+  },
+  {
+    "number": "91533",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety \nof extended spoken Chinese texts\n",
+    "credits": 5,
+    "subject": "Chinese,",
+    "level": "3",
+    "id": 203
+  },
+  {
+    "number": "91536",
+    "start-year": "2019",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of  \nextended written and / or visual Chinese texts\n",
+    "credits": 5,
+    "subject": "Chinese,",
+    "level": "3",
+    "id": 204
+  },
+  {
+    "number": "91538",
+    "start-year": "2018",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of  \nextended spoken Cook Islands M\u0101ori texts\n",
+    "credits": 5,
+    "subject": "Cook Islands M\u0101ori,",
+    "level": "3",
+    "id": 205
+  },
+  {
+    "number": "91541",
+    "start-year": "2020",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of a variety of  \nextended written and / or visual Cook Islands M\u0101ori texts\n",
+    "credits": 5,
+    "subject": "Cook Islands M\u0101ori",
+    "level": "3",
+    "id": 206
+  },
+  {
+    "number": "91543",
+    "start-year": "2017",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety  \n of extended spoken French texts\n",
+    "credits": 5,
+    "subject": "French,",
+    "level": "3",
+    "id": 207
+  },
+  {
+    "number": "91546",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety \nof extended written and / or visual French texts\n",
+    "credits": 5,
+    "subject": "French,",
+    "level": "3",
+    "id": 208
+  },
+  {
+    "number": "91548",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety \nof extended spoken German texts\n",
+    "credits": 5,
+    "subject": "German,",
+    "level": "3",
+    "id": 209
+  },
+  {
+    "number": "91551",
+    "start-year": "2015",
+    "end-year": "2018",
+    "title": "Demonstrate understanding of a variety \nof extended written and / or visual German texts\n",
+    "credits": 5,
+    "subject": "German,",
+    "level": "3",
+    "id": 210
+  },
+  {
+    "number": "91553",
+    "start-year": "2016",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of a variety  \nof extended spoken Japanese texts\n",
+    "credits": 5,
+    "subject": "Japanese,",
+    "level": "3",
+    "id": 211
+  },
+  {
+    "number": "91556",
+    "start-year": "2014",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety \nof extended written and / or visual Japanese texts\n",
+    "credits": 5,
+    "subject": "Japanese,",
+    "level": "3",
+    "id": 212
+  },
+  {
+    "number": "91558",
+    "start-year": "2018",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of a variety  \nof extended spoken Korean texts\n",
+    "credits": 5,
+    "subject": "Korean,",
+    "level": "3",
+    "id": 213
+  },
+  {
+    "number": "91561",
+    "start-year": "2018",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety  \nof extended written and / or visual Korean texts\n",
+    "credits": 5,
+    "subject": "Korean,",
+    "level": "3",
+    "id": 214
+  },
+  {
+    "number": "91563",
+    "start-year": "2013",
+    "end-year": "2020",
+    "title": "Demonstrate understanding of a variety \nof extended spoken Samoan texts\n",
+    "credits": 5,
+    "subject": "Samoan,",
+    "level": "3",
+    "id": 215
+  },
+  {
+    "number": "91566",
+    "start-year": "2014",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of a variety \nof extended written and / or visual S\u0101moan texts\n",
+    "credits": 5,
+    "subject": "S\u0101moan,",
+    "level": "3",
+    "id": 216
+  },
+  {
+    "number": "91568",
+    "start-year": "2013",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of a variety \nof extended spoken Spanish texts\n",
+    "credits": 5,
+    "subject": "Spanish,",
+    "level": "3",
+    "id": 217
+  },
+  {
+    "number": "91571",
+    "start-year": "2013",
+    "end-year": "2020",
+    "title": "Demonstrate understanding of a variety \nof extended written and / or visual Spanish texts\n",
+    "credits": 5,
+    "subject": "Spanish,",
+    "level": "3",
+    "id": 218
+  },
+  {
+    "number": "91577",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Apply the algebra of complex numbers  \nin solving problems\n",
+    "credits": 5,
+    "subject": "Calculus,",
+    "level": "3",
+    "id": 219
+  },
+  {
+    "number": "91578",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "Apply differentiation methods  \nin solving problems\n",
+    "credits": 6,
+    "subject": "Calculus,",
+    "level": "3",
+    "id": 220
+  },
+  {
+    "number": "91579",
+    "start-year": "2014",
+    "end-year": "2022",
+    "title": "Apply integration methods  \nin solving problems\n",
+    "credits": 6,
+    "subject": "Calculus,",
+    "level": "3",
+    "id": 221
+  },
+  {
+    "number": "91584",
+    "start-year": "2014",
+    "end-year": "2022",
+    "id": 222,
+    "title": "Evaluate statistically based reports",
+    "credits": 4,
+    "subject": "Mathematics and Statistics  \n(Statistics)",
+    "level": "3"
+  },
+  {
+    "number": "91585",
+    "start-year": "2013",
+    "end-year": "2023",
+    "title": "Apply probability concepts in solving problems\n",
+    "credits": 4,
+    "subject": "Mathematics and Statistics \n(Statistics),",
+    "level": "3",
+    "id": 223
+  },
+  {
+    "number": "91586",
+    "start-year": "2014",
+    "end-year": "2023",
+    "id": 224,
+    "title": "Apply probability distributions in solving problems",
+    "credits": 4,
+    "subject": "Mathematics and Statistics  \n(Statistics)",
+    "level": "3"
+  },
+  {
+    "number": "91596",
+    "start-year": "2016",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of ideological \nresponses to an issue\n",
+    "credits": 4,
+    "subject": "Social Studies,",
+    "level": "3",
+    "id": 225
+  },
+  {
+    "number": "91598",
+    "start-year": "2014",
+    "end-year": "2019",
+    "title": "Demonstrate understanding of  \nhow ideologies shape society\n",
+    "credits": 4,
+    "subject": "Social Studies,",
+    "level": "3",
+    "id": 226
+  },
+  {
+    "number": "91603",
+    "start-year": "2014",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of the responses of \nplants and animals to their external environment\n",
+    "credits": 5,
+    "subject": "Biology,",
+    "level": "3",
+    "id": 227
+  },
+  {
+    "number": "91605",
+    "start-year": "2014",
+    "end-year": "2020",
+    "title": "Demonstrate understanding of evolutionary \nprocesses leading to speciation\n",
+    "credits": 4,
+    "subject": "Biology,",
+    "level": "3",
+    "id": 228
+  },
+  {
+    "number": "91606",
+    "start-year": "2013",
+    "end-year": "2016",
+    "title": "Demonstrate understanding of trends  \nin human evolution\n",
+    "credits": 4,
+    "subject": "Biology,",
+    "level": "3",
+    "id": 229
+  },
+  {
+    "number": "91652",
+    "start-year": "2013",
+    "end-year": "2022",
+    "title": "P\u0101nui kia m\u014dhio ki te reo M\u0101ori o te ao wh\u0101nui\n",
+    "credits": 6,
+    "subject": "Te Reo M\u0101ori,",
+    "level": "3",
+    "id": 230
+  },
+  {
+    "number": "91653",
+    "start-year": "2017",
+    "end-year": "2021",
+    "title": "Tuhi i te reo M\u0101ori o te ao wh\u0101nui\n",
+    "credits": 6,
+    "subject": "Te Reo M\u0101ori,",
+    "level": "3",
+    "id": 231
+  },
+  {
+    "number": "91659",
+    "start-year": "2015",
+    "end-year": "2021",
+    "title": "Te whakapuaki whakaaro hei tuhinga whakam\u014dhio\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "1",
+    "id": 232
+  },
+  {
+    "number": "91662",
+    "start-year": "2018",
+    "end-year": "2019",
+    "title": "Te whakatau kaupapa hei tuhinga\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "1",
+    "id": 233
+  },
+  {
+    "number": "91664",
+    "start-year": "2014",
+    "end-year": "2021",
+    "title": "Te t\u0101tari i te reo tuhituhi hou\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "1",
+    "id": 234
+  },
+  {
+    "number": "91669",
+    "start-year": "2022",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of  \nspoken Lea Faka-Tonga texts on areas of  \nmost immediate relevance",
+    "credits": 5,
+    "subject": "Lea Faka-Tonga",
+    "level": "1",
+    "id": 235
+  },
+  {
+    "number": "91672",
+    "start-year": "2021",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of  \nLea Faka-Tonga texts on areas of  \nmost immediate relevance",
+    "credits": 5,
+    "subject": "Lea Faka-Tonga",
+    "level": "1",
+    "id": 236
+  },
+  {
+    "number": "91674",
+    "start-year": "2018",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of a variety of  \nspoken Lea Faka-Tonga texts on familiar matters\n",
+    "credits": 5,
+    "subject": "Lea Faka-Tonga,",
+    "level": "2",
+    "id": 237
+  },
+  {
+    "number": "91677",
+    "start-year": "2018",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of written \nand / or visual Lea Faka-Tonga text(s) on familiar matters\n",
+    "credits": 5,
+    "subject": "Lea Faka-Tonga,",
+    "level": "2",
+    "id": 238
+  },
+  {
+    "number": "91679",
+    "start-year": "2019",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of  \nextended spoken Lea Faka-Tonga texts\n",
+    "credits": 5,
+    "subject": "Lea Faka-Tonga,",
+    "level": "3",
+    "id": 239
+  },
+  {
+    "number": "91682",
+    "start-year": "2019",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a variety of  \nextended written and / or visual Lea Faka-Tonga texts\n",
+    "credits": 5,
+    "subject": "Lea Faka-Tonga,",
+    "level": "3",
+    "id": 240
+  },
+  {
+    "number": "91733",
+    "start-year": "2016",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of initiatives that \ncontribute to a sustainable future\n",
+    "credits": 4,
+    "subject": "Education for Sustainability,",
+    "level": "2",
+    "id": 241
+  },
+  {
+    "number": "91777",
+    "start-year": "2015",
+    "end-year": "2022",
+    "title": "Te whakarongo ki ng\u0101 tohunga reo\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "2",
+    "id": 242
+  },
+  {
+    "number": "91779",
+    "start-year": "2015",
+    "end-year": "2019",
+    "title": "Te p\u0101nui i ng\u0101 tuhinga tawhito\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "2",
+    "id": 243
+  },
+  {
+    "number": "91780",
+    "start-year": "2019",
+    "end-year": "2020",
+    "title": "Te tuhi k\u014drero whakaae r\u0101nei, whakah\u0113 r\u0101nei\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "2",
+    "id": 244
+  },
+  {
+    "number": "91804",
+    "start-year": "2017",
+    "end-year": "2022",
+    "title": "Te t\u0101tari i te ahunga o te reo\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "3",
+    "id": 245
+  },
+  {
+    "number": "91806",
+    "start-year": "2017",
+    "end-year": "2021",
+    "title": "Te t\u016bhura i ng\u0101 tuhinga raupeka\n",
+    "credits": 4,
+    "subject": "Te Reo Rangatira,",
+    "level": "3",
+    "id": 246
+  },
+  {
+    "number": "91808",
+    "start-year": "2017",
+    "end-year": "2022",
+    "title": "Te whakaoti tuhinga\n",
+    "credits": 3,
+    "subject": "Te Reo Rangatira,",
+    "level": "3",
+    "id": 247
+  },
+  {
+    "number": "91876",
+    "start-year": "2018",
+    "end-year": "2022",
+    "title": "Analyse a significant issue  \nin psychological practice\n",
+    "credits": 3,
+    "subject": "Psychology,",
+    "level": "3",
+    "id": 248
+  },
+  {
+    "number": "91886",
+    "start-year": "2022",
+    "end-year": "2021",
+    "title": "Demonstrate understanding of human computer interaction",
+    "credits": 3,
+    "subject": "Digital Technologies",
+    "level": "1",
+    "id": 249
+  },
+  {
+    "number": "91887",
+    "start-year": "2021",
+    "end-year": "2022",
+    "title": "Demonstrate understanding of  compression coding for a chosen media type",
+    "credits": 3,
+    "subject": "Digital Technologies",
+    "level": "1",
+    "id": 250
+  },
+  {
+    "number": "91898",
+    "start-year": "2019",
+    "end-year": "2021",
+    "id": 251,
+    "title": "Demonstrate understanding of  a computer science concept",
+    "credits": 3,
+    "subject": "Digital Technologies and Hangarau Matihiko,",
+    "level": "2"
+  },
+  {
+    "number": "91899",
+    "start-year": "2019",
+    "end-year": "2022",
+    "id": 252,
+    "title": "Present a summary of developing  a digital outcome",
+    "credits": 3,
+    "subject": "Digital Technologies and Hangarau Matihiko",
+    "level": "2"
+  },
+  {
+    "number": "91908",
+    "start-year": "2019",
+    "end-year": "2020",
+    "id": 253,
+    "title": "Analyse an area of computer science ",
+    "credits": "3",
+    "subject": "Digital Technologies and Hangarau Matihiko",
+    "level": "3"
+  },
+  {
+    "number": "91909",
+    "start-year": "2020",
+    "end-year": "2022",
+    "id": 254,
+    "title": "Present a reflective analysis of  developing a digital outcome",
+    "credits": 3,
+    "subject": "Digital Technologies and Hangarau Matihiko",
+    "level": "3"
+  },
+  {
+    "number": "91926",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Develop ideas in writing using stylistic  \nand written conventions",
+    "credits": 5,
+    "subject": "English RAS",
+    "level": "1",
+    "id": 255
+  },
+  {
+    "number": "91922",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Describe features of science that have contributed \nto the development of a science idea in a local context",
+    "credits": 5,
+    "subject": "Science RAS",
+    "level": "1",
+    "id": 256
+  },
+  {
+    "number": "91923",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of science-related \nclaims in communicated information",
+    "credits": 5,
+    "subject": "Science RAS",
+    "level": "1",
+    "id": 257
+  },
+  {
+    "number": "91918",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of a characteristic \nof religious or spiritual traditions",
+    "credits": 5,
+    "subject": "Religious Studies RAS",
+    "level": "1",
+    "id": 258
+  },
+  {
+    "number": "91927",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of significant aspects \nof unfamiliar texts",
+    "credits": 5,
+    "subject": "English RAS",
+    "level": "1",
+    "id": 259
+  },
+  {
+    "number": "91930",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of how soil properties \nare managed in a primary production system",
+    "credits": 5,
+    "subject": "Agricultural and Horticultural Science RAS",
+    "level": "1",
+    "id": 260
+  },
+  {
+    "number": "91935",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of geographic  \ndecision-making in Aotearoa New Zealand or the Pacific",
+    "credits": 5,
+    "subject": "Geography RAS",
+    "level": "1",
+    "id": 261
+  },
+  {
+    "number": "91939",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of the application  \nof the elements of dance in a performance",
+    "credits": 5,
+    "subject": "Dance RAS",
+    "level": "1",
+    "id": 262
+  },
+  {
+    "number": "91946",
+    "start-year": "2023",
+    "end-year": "2023",
+    "id": 263,
+    "title": "Interpret and apply mathematical and statistical information in context",
+    "credits": "5",
+    "subject": "Mathematics and Statistics RAS",
+    "level": "1"
+  },
+  {
+    "number": "91947",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate mathematical reasoning",
+    "credits": 5,
+    "subject": "Mathematics and Statistics RAS",
+    "level": "1",
+    "id": 264
+  },
+  {
+    "number": "91955",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of spoken Chinese \n(Mandarin) related to everyday contexts",
+    "credits": 5,
+    "subject": "Chinese (Mandarin) RAS",
+    "level": "1",
+    "id": 265
+  },
+  {
+    "number": "91954",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of written Chinese \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "Chinese RAS",
+    "level": "1",
+    "id": 266
+  },
+  {
+    "number": "91958",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of written Japanese \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "Japanese RAS",
+    "level": "1",
+    "id": 267
+  },
+  {
+    "number": "91959",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of spoken Japanese \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "Japanese RAS",
+    "level": "1",
+    "id": 268
+  },
+  {
+    "number": "91962",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of written Korean \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "Korean RAS",
+    "level": "1",
+    "id": 269
+  },
+  {
+    "number": "91963",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of spoken Korean \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "Korean RAS",
+    "level": "1",
+    "id": 270
+  },
+  {
+    "number": "91966",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of written French \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "French RAS",
+    "level": "1",
+    "id": 271
+  },
+  {
+    "number": "91967",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of spoken French \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "French RAS",
+    "level": "1",
+    "id": 272
+  },
+  {
+    "number": "91970",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of written German \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "German RAS",
+    "level": "1",
+    "id": 273
+  },
+  {
+    "number": "91971",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of spoken German \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "German RAS",
+    "level": "1",
+    "id": 274
+  },
+  {
+    "number": "91974",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of written Spanish \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "Spanish RAS",
+    "level": "1",
+    "id": 275
+  },
+  {
+    "number": "91975",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of spoken Spanish \nrelated to everyday contexts",
+    "credits": 5,
+    "subject": "Spanish RAS",
+    "level": "1",
+    "id": 276
+  },
+  {
+    "number": "92022",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of genetic variation  \nin relation to an identified characteristic",
+    "credits": 5,
+    "subject": "Chemistry and Biology RAS",
+    "level": "1",
+    "id": 277
+  },
+  {
+    "number": "92043",
+    "start-year": "2023",
+    "end-year": "2023",
+    "id": 278,
+    "title": "Demonstrate understanding of spoken Te Reo M\u0101ori \nK\u016bki ",
+    "credits": 5
+  },
+  {
+    "number": "92023",
+    "start-year": "2023",
+    "end-year": "2023",
+    "id": 279,
+    "title": "Demonstrate understanding of how the properties of chemicals inform their use in a specific context",
+    "credits": "4",
+    "subject": "Chemistry and Biology RAS",
+    "level": "1"
+  },
+  {
+    "number": "92042",
+    "start-year": "2023",
+    "end-year": "2023",
+    "id": 280,
+    "title": "Demonstrate understanding of written Te R\u0113o M\u0101ori \nK\u016bki ",
+    "credits": 5
+  },
+  {
+    "number": "92047",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of \nenergy in a physical system",
+    "credits": 5,
+    "subject": "Physics, Earth and Space Science \n RAS",
+    "level": "1",
+    "id": 281
+  },
+  {
+    "number": "92046",
+    "start-year": "2023",
+    "end-year": "2023",
+    "title": "Demonstrate understanding of the effect  \non the Earth of interactions between the Sun  \nand the Earth-Moon system",
+    "credits": 5,
+    "subject": "Physics and ESS RAS",
+    "level": "1",
+    "id": 282
+  },
+  {
+    "number": "93101",
+    "start-year": "2014",
+    "end-year": "2023",
+    "id": 283,
+    "title": "Scholarship Biology",
+    "credits": "-",
+    "subject": "Scholarship Biology",
+    "level": "S"
+  },
+  {
+    "number": "93102",
+    "start-year": "2014",
+    "end-year": "2022",
+    "id": 284,
+    "title": "Scholarship Chemistry",
+    "credits": "-",
+    "subject": "Scholarship Chemistry",
+    "level": "S"
+  },
+  {
+    "number": "93103",
+    "start-year": "2014",
+    "end-year": "2022",
+    "id": 285,
+    "title": "Scholarship Physics",
+    "credits": "-",
+    "subject": "Scholarship Physics",
+    "level": "S"
+  },
+  {
+    "number": "93104",
+    "start-year": "2016",
+    "end-year": "2019",
+    "id": 286,
+    "title": "Scholarship Earth and Space Science",
+    "credits": "-",
+    "subject": "Scholarship Earth and Space Science",
+    "level": "S"
+  },
+  {
+    "number": "93201",
+    "start-year": "2014",
+    "end-year": "2023",
+    "id": 287,
+    "title": "Scholarship Statistics",
+    "credits": "-",
+    "subject": "Scholarship Statistics",
+    "level": "S"
+  },
+  {
+    "number": "93202",
+    "start-year": "2014",
+    "end-year": "2022",
+    "id": 288,
+    "title": "Scholarship Calculus",
+    "credits": "-",
+    "subject": "Scholarship Calculus",
+    "level": "S"
+  },
+  {
+    "number": "93203",
+    "start-year": "2014",
+    "end-year": "2021",
+    "id": 289,
+    "title": "Scholarship Accounting",
+    "credits": "-",
+    "subject": "Scholarship Accounting",
+    "level": "S"
+  },
+  {
+    "number": "93401",
+    "start-year": "2014",
+    "end-year": "2023",
+    "id": 290,
+    "title": "Scholarship Geography",
+    "credits": "-",
+    "subject": "Scholarship Geography",
+    "level": "S"
+  },
+  {
+    "number": "93402",
+    "start-year": "2014",
+    "end-year": "2023",
+    "id": 291,
+    "title": "Scholarship Economics",
+    "credits": "-",
+    "subject": "Scholarship Economics",
+    "level": "S"
+  },
+  {
+    "number": "93403",
+    "start-year": "2015",
+    "end-year": "2022",
+    "id": 292,
+    "title": "Scholarship History",
+    "credits": "-",
+    "subject": "Scholarship History",
+    "level": "S"
+  }
+]
