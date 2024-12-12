@@ -9,6 +9,7 @@ Schol Economics 2020
 Schol History 2014 & 2018 & 2019 & 2020
 Schol English 2018 & 2019 & 2020
 Schol Art History 2014 & 2018 & 2019 & 2020
+Schol Classics 2017 Schedules & 2018 & 2019 & 2020
 ###
 '''
 
