@@ -13,6 +13,7 @@ Schol Classics 2018 & 2019 & 2020
 Schol Media Studies 2018 & 2019 & 2020
 Schol Chinese 2018 & 2019 & 2020
 Schol French 2015 & 2016 & 2018 & 2019 & 2020
+Schol German 2014 & 2018 & 2019 & 2020
 Schol Latin 2014 & 2018 & 2019 & 2020
 ###
 '''
