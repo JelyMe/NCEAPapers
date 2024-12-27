@@ -17,6 +17,7 @@ Schol German 2014 & 2018 & 2019 & 2020
 Schol Latin 2014 & 2016 & 2018 & 2019 & 2020
 Schol Japanese 2014 & 2018 & 2019 & 2020
 Schol Samoan 2014 & 2018 & 2019 & 2020
+Schol Spanish 2014 & 2018 & 2019 & 2020
 ###
 '''
 
