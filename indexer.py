@@ -215,8 +215,11 @@ def indexPaper(filename):
                     # creating a page object
                     pageObj = pdfReader.pages[0]
                     pageText = pageObj.extract_text()
-                    if re.search(pattern=r"([\sA-Za-z()&\-/\u00C0-\u017F,]+),* "+fileInfo[2]+r"[\S\s]*(Credits|W?hiwhinga):", string=pageText).group(2) not in subjectList:
-                        subjectList.append(re.search(pattern=r"([\sA-Za-z()&\-/\u00C0-\u017F,]+),* "+fileInfo[2]+r"[\S\s]*(Credits|W?hiwhinga):", string=pageText).group(2))
+
+                    result = re.search(pattern=r"([\sA-Za-z()&\-/\u00C0-\u017F,]+),* "+fileInfo[2]+r"[\S\s]*(Credits|W?hiwhinga):", string=pageText)
+
+                    if result.group(2) not in subjectList:
+                        subjectList.append(result.group(2))
                     
                     endYear = fileInfo[2]
                     if paperList[fileInfo[1]]["end-year"] != fileInfo[2]:
@@ -229,7 +232,7 @@ def indexPaper(filename):
                         "title":re.search(pattern=fileInfo[1] + r" {1,}([\sA-Za-z()&/\-\u00C0-\u017F,&]+)(\d[.]\d\d)*[^Q]+(Credits|W?hiwhinga)", string=pageText).group(1),
                         "number":fileInfo[1], 
                         "credits": credits[re.search(pattern=r"(Credits|W?hiwhinga): ([\w\d]+)", string=pageText).group(2)],
-                        "subject":re.search(pattern=r"([\sA-Za-z()&\-/\u00C0-\u017F,]+),* "+fileInfo[2]+r"[\S\s]*(Credits|W?hiwhinga):", string=pageText).group(2),
+                        "subject":result.group(2),
                         "level":"All"
                     }
 
